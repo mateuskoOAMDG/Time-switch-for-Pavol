@@ -1,7 +1,7 @@
 /**
  * @file classes.h
  * @author Martin Janček, mateusko.OAMDG@outlook.com 
- * @brief class definitions for sketch CasovySpinac.ino
+ * @brief class definitions for sketch Timer.ino
  * @version 0.1
  * @date 2026-01-18
  * 
@@ -307,4 +307,5 @@ class Display {
         }
 
     
+
 };
